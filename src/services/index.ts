@@ -1,4 +1,5 @@
 export { default as TerminalLocalAPI } from "./terminalLocalAPI";
+export { default as TerminalLocalAPIUnencrypted } from "./terminalLocalAPIUnencrypted";
 export { default as TerminalCloudAPI } from "./terminalCloudAPI";
 export { default as CheckoutAPI } from "./checkout";
 export { default as PaymentAPI } from "./paymentApi";
